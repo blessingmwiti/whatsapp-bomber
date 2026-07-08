@@ -42,6 +42,10 @@ Install requirements
 pip install -r requirements.txt
 ```
 
+### Update the copy and paste shortcut command according to your OS.
+
+> Mac OS shortcut is currently set. Just comment it and uncomment the Windows/Linux method
+
 ## Run
 
 > This version will resend the message 100 times, this can be changed in the for loop code to the number of times of your choice

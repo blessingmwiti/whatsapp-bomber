@@ -2,9 +2,9 @@
 
 Send a message multiple times to someone on WhatsApp
 
-> Tested on WhatsApp desktop app Windows 11
+> Tested on WhatsApp desktop app
 
-## Optional
+## Recommended
 
 Setup a virtual environment
 
@@ -44,10 +44,10 @@ pip install -r requirements.txt
 
 ## Run
 
-> This version will resend the message 500 times, this can be chnaged in the for loop code to the number of times of your choice
+> This version will resend the message 100 times, this can be changed in the for loop code to the number of times of your choice
 
-> Remember, you have 8 seconds to open the WhatsApp chat and click on the typing area. Now just wait for it to complete
+> Remember, you have 5 seconds to open the WhatsApp chat and click on the typing area. Now just wait for it to complete
 
 ```bash
-python bomb.py
+python3 bomb.py
 ```
